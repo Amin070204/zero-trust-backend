@@ -7,6 +7,7 @@ class User {
         this.active = active;
     }
 
+    
     isActive() {
         return this.active === true;
     }
